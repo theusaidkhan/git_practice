@@ -1,5 +1,5 @@
 Hello Git & Thanks: Linus Torvalds
 
-This VCS changes the software industry forever;
+This VCS changed the software industry forever;
 
 
