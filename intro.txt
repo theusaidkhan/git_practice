@@ -3,3 +3,4 @@ Hello Git & Thanks: Linus Torvalds
 This VCS changed the software industry forever;
 
 
+Literally every single software company of earth uses git!
